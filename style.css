@@ -1,0 +1,66 @@
+body {
+    background-color: red;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+
+}
+
+button{
+  background-color: blue;
+  font-family: "Bai Jamjuree", sans-serif;
+  color: white;
+
+
+}
+
+
+.passo{
+    display: none;
+
+}
+
+.passo.ativo {
+    display: block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 80%;
+}
+
+.nerd img {
+    max-width: 65%;
+}
+
+.bob img {
+    max-width: 95%;
+}
+
+.janta img {
+    max-width: 75%;
+}
+
+.fofucho img {
+    max-width: 65%;
+}
+
+.ping img {
+    max-width: 80%;
+}
+
+.pcn img {
+    max-width: 75%;
+}
+
+.safado img {
+    max-width: 80%;
+}
